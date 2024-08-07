@@ -1,0 +1,25 @@
+{
+  "RayMan": {
+    "version": "1.2",
+    "copyright": "© 2000"
+  },
+  "Institute": {
+    "name": "Meteorological Institute, University of Freiburg, Germany"
+  },
+  "location": {
+    "place": "Tegal Indonesia",
+    "horizon_limitation": "0.0%",
+    "sky_view_factor": "1.000",
+    "geographical_longitude": "109°8'",
+    "latitude": "-6°52'",
+    "timezone": "UTC +7.0 h"
+  },
+  "personal_data": {
+    "height": "1.55 m",
+    "weight": "50.0 kg",
+    "age": "24 a",
+    "sex": "f",
+    "clothing": "0.9 clo",
+    "activity": "80.0 W"
+  }
+}
